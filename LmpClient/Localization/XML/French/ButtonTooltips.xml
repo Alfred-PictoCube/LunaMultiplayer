@@ -10,7 +10,7 @@
   <DeleteIcon>Supprimer</DeleteIcon>
   <PlusIcon>Ajouter</PlusIcon>
   <SaveIcon>Sauvegarder</SaveIcon>
-  <KeyIcon>Mot de passe</KeyIcon>
+  <KeyIcon>Mot de Passe</KeyIcon>
   <ChatIcon>Chat</ChatIcon>
   <CameraIcon>Captures d'écran</CameraIcon>
   <RocketIcon>Vaisseaux</RocketIcon>
@@ -18,6 +18,6 @@
   <KickIcon>Expulser</KickIcon>
   <BanIcon>Bannir</BanIcon>
   <DekesslerIcon>Dekessler (efface les débris)</DekesslerIcon>
-  <NukeIcon>Atomiser le CSK (efface les véhicules présents au centre spatial)</NukeIcon>
-  <RestartServerIcon>Redémarrer le serveur</RestartServerIcon>
+  <NukeIcon>Atomiser CSK (efface les véhicules)</NukeIcon>
+  <RestartServerIcon>Redémarrer le Serveur</RestartServerIcon>
 </ButtonTooltips>
